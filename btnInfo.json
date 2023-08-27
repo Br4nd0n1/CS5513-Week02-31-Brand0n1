@@ -1,0 +1,34 @@
+[
+    {
+        "btnName":"1. Primary",
+        "btnColor":"btn btn-primary"
+    },
+    {
+        "btnName":"2. Secondary",
+        "btnColor":"btn btn-secondary"
+    },
+    {
+        "btnName":"3. Success",
+        "btnColor":"btn btn-success"
+    },
+    {
+        "btnName":"4. Danger",
+        "btnColor":"btn btn-danger"
+    },
+    {
+        "btnName":"5. Waring",
+        "btnColor":"btn btn-warning"
+    },
+    {
+        "btnName":"6. Info",
+        "btnColor":"btn btn-info"
+    },
+    {
+        "btnName":"7. Light",
+        "btnColor":"btn btn-light"
+    },
+    {
+        "btnName":"8. Dark",
+        "btnColor":"btn btn-dark"
+    }
+]
