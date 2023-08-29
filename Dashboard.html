@@ -46,7 +46,8 @@
       'PlaceHolderURL',
       function(jsonData) 
     {
-        const rootElement = ReactDOM.createRoot( document.getElementById('rootElement') );
+        const rootElement = ReactDOM.createRoot( 
+        document.getElementById('rootElement') );
         rootElement.render(
           <PopulateButtons list={jsonData} />
         );
